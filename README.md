@@ -1,70 +1,114 @@
-![Rohit Kumar Mishra — Developer · Data Science · Product Builder](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:0F172A&height=190&section=header&text=Rohit%20Kumar%20Mishra&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Product%20Builder&descSize=14&descAlignY=58&animation=fadeIn)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=16&duration=3200&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+working+software.;I+learn+by+building+and+shipping.;Curious+about+systems%2C+data%2C+and+technology." alt="Animated introduction" />
+  <img src="./assets/hero.svg" width="100%" alt="Rohit Mishra — personal engineering interface" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-k-mishra/">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@Rohitharyamishra">YouTube</a> ·
-  <a href="https://instagram.com/rohith.stoic">Instagram</a> ·
-  <a href="mailto:rohitkumarmishra8405@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Learning+systems+by+building+them.;Exploring+data%2C+software%2C+and+product+engineering." alt="Animated developer introduction" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-k-mishra/">LINKEDIN</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.youtube.com/@Rohitharyamishra">YOUTUBE</a>
+  &nbsp; / &nbsp;
+  <a href="https://instagram.com/rohith.stoic">INSTAGRAM</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:rohitkumarmishra8405@gmail.com">CONTACT</a>
 </p>
 
 ------------------------------------------------------------------------
 
-## About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm a Data Science student at **IIT Madras** interested in software engineering, data-driven systems, and product development.
+### 01 / PROFILE
 
-I enjoy taking an idea from an early sketch to a working product: understanding the problem, exploring trade-offs, designing the system, and building something people can use. My current work spans Python, backend development, data, and applied AI.
+I'm Rohit, a Data Science student at **IIT Madras**. I work on software, data-driven systems, and early-stage product ideas.
 
-I value clear engineering, useful products, and learning through real projects.
+I like the full process: understanding a problem, designing a system, building the first version, testing it, and improving what doesn't work.
 
-## Selected work
+**Current direction:** software engineering, applied machine learning, backend systems, and product development.
 
-| Project     | Focus                                                                                  |
-|:------------|:---------------------------------------------------------------------------------------|
-| **Zyra**    | B2B lead generation, lead research, personalized outreach, and workflow management.    |
-| **MEAN AI** | Voice transcription, conversation analysis, and commitment tracking.                   |
-| **ECHO AI** | A future-self simulation concept built around skills, goals, and scenario exploration. |
+</td>
+<td width="42%" valign="top">
 
-*Explore the repositories for implementation details, current status, and technical decisions.*
+### SYSTEM / STATUS
 
-## Tools I work with
+| FIELD     | VALUE                   |
+|:----------|:------------------------|
+| Base      | Chennai, India          |
+| Education | IIT Madras              |
+| Focus     | Building products       |
+| Languages | Python · SQL · JS       |
+| Mode      | Learn / Build / Iterate |
 
-**Languages**  
-`Python` · `SQL` · `JavaScript`
+</td>
+</tr>
+</table>
 
-**Data & machine learning**  
-`Pandas` · `NumPy` · `scikit-learn` · `PyTorch`
+## 02 / PROJECT ARCHIVE
 
-**Development**  
-`Flask` · `Streamlit` · `Node.js` · `Next.js` · `Git` · `Docker`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Databases**  
-`SQLite` · `PostgreSQL` · `Neo4j`
+**01 — ZYRA**
 
-I add tools when a project needs them—not just to fill a list.
+`B2B SOFTWARE`
 
-## Engineering principles
+Lead generation and outreach workflows, bringing research and personalized communication into one product.
 
-- Start with the problem, not the technology.
-- Prefer understandable systems over unnecessary complexity.
-- Test assumptions early and improve from evidence.
-- Document decisions so others can follow the work.
-- Keep learning by shipping practical projects.
+</td>
+<td width="33%" valign="top">
 
-## GitHub activity
+**02 — MEAN AI**
+
+`CONVERSATIONAL SYSTEMS`
+
+Voice ingestion, transcription, conversation analysis, and commitment tracking.
+
+</td>
+<td width="33%" valign="top">
+
+**03 — ECHO AI**
+
+`EXPERIMENTAL`
+
+A future-self simulation concept exploring skills, goals, personal data, and possible scenarios.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=democodext&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=94A3B8&text_color=CBD5E1&icon_color=94A3B8&include_all_commits=true" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=democodext&layout=compact&hide_border=true&theme=transparent&title_color=94A3B8&text_color=CBD5E1" alt="Most used languages" />
+  <sub>Selected work · Project scope and implementation may evolve. Explore the repositories for current details.</sub>
+</p>
+
+## 03 / TOOLCHAIN
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,nodejs,nextjs,postgres,sqlite,docker,git,github&theme=dark&perline=6" alt="Technology icons" />
 </p>
 
 <p align="center">
-  <sub>Always exploring. Always improving.</sub>
+  <code>Python</code> &nbsp; <code>SQL</code> &nbsp; <code>JavaScript</code> &nbsp;
+  <code>Pandas</code> &nbsp; <code>NumPy</code> &nbsp; <code>scikit-learn</code>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=3&section=footer)
+## 04 / ACTIVITY MONITOR
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=democodext&bg_color=0b1020&color=cbd5e1&line=67e8f9&point=c4b5fd&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=democodext&show_icons=true&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1&icon_color=c4b5fd&rank_icon=github" height="155" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=democodext&layout=compact&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=cbd5e1" height="155" alt="Most used languages" />
+</p>
+
+------------------------------------------------------------------------
+
+<p align="center">
+  <sub>ROHIT.OS · Personal workspace · Built with curiosity and code</sub>
+</p>
